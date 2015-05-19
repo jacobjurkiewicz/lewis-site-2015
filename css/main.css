@@ -75,9 +75,13 @@ header nav ul li a {
 
   .main p {
     text-align: center;
-    font-size: 30px;
-    padding-bottom: 3%;
+    font-size: 24px;
+    padding-top: 3%;
   }
+
+/*  .main, .site-content p span {
+    font-size: 7px;
+  }*/
 
   h1 {
     text-align: center;
@@ -109,6 +113,7 @@ footer .footer-wrap {
 footer .footer-wrap p {
   margin: 0;
   padding: 10px 0;
+  font-size: 20px;
 }
 
 @media screen and (max-width: 450px) {
